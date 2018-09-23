@@ -1,0 +1,155 @@
+[
+    {
+      "username": "Roy_Kovacek20",
+      "email": "Genesis.Weissnat28@gmail.com",
+      "age": 24,
+      "gender": "male",
+      "skill": [
+        "php",
+        "python"
+      ],
+      "experience": "year 3",
+      "field": [
+        "manager",
+        "developer"
+      ],
+      "photo": "img/IMG01.jpg",
+      "description": "This resource is dedicated to sharing tools and techniques we use at Joyent to operate Node.js in production."
+    },
+    {
+      "username": "Brendan_Hansen",
+      "email": "Kari17@hotmail.com",
+      "age": 24,
+      "gender": "male",
+      "skill": [
+        "php",
+        "node"
+      ],
+      "experience": "year 3",
+      "field": [
+        "manager",
+        "developer"
+      ],
+      "photo": "img/IMG01.jpg",
+      "description": "This resource is dedicated to sharing tools and techniques we use at Joyent to operate Node.js in production."
+    },
+    {
+      "username": "Brad33",
+      "email": "Daphney22@yahoo.com",
+      "age": 24,
+      "gender": "male",
+      "skill": [
+        "php",
+        "python"
+      ],
+      "experience": "year 3",
+      "field": [
+        "manager",
+        "developer"
+      ],
+      "photo": "img/IMG01.jpg",
+      "description": "This resource is dedicated to sharing tools and techniques we use at Joyent to operate Node.js in production."
+    },
+    {
+      "username": "Monroe_Schumm78",
+      "email": "Earline_Shields@gmail.com",
+      "age": 24,
+      "gender": "male",
+      "skill": [
+        "php",
+        "python"
+      ],
+      "experience": "year 3",
+      "field": [
+        "manager",
+        "developer"
+      ],
+      "photo": "img/IMG01.jpg",
+      "description": "This resource is dedicated to sharing tools and techniques we use at Joyent to operate Node.js in production."
+    },
+    {
+      "username": "Albertha_Morar",
+      "email": "Jefferey_Moore89@hotmail.com",
+      "age": 24,
+      "gender": "male",
+      "skill": [
+        "php",
+        "python"
+      ],
+      "experience": "year 3",
+      "field": [
+        "manager",
+        "developer"
+      ],
+      "photo": "img/IMG01.jpg",
+      "description": "This resource is dedicated to sharing tools and techniques we use at Joyent to operate Node.js in production."
+    },
+    {
+      "username": "Gudrun.Schuster",
+      "email": "Sherwood.Erdman86@hotmail.com",
+      "age": 24,
+      "gender": "male",
+      "skill": [
+        "php",
+        "python"
+      ],
+      "experience": "year 3",
+      "field": [
+        "manager",
+        "developer"
+      ],
+      "photo": "img/IMG01.jpg",
+      "description": "This resource is dedicated to sharing tools and techniques we use at Joyent to operate Node.js in production."
+    },
+    {
+      "username": "Tavares.Rath",
+      "email": "Matt_Gibson@gmail.com",
+      "age": 24,
+      "gender": "male",
+      "skill": [
+        "php",
+        "python"
+      ],
+      "experience": "year 3",
+      "field": [
+        "manager",
+        "developer"
+      ],
+      "photo": "img/IMG01.jpg",
+      "description": "This resource is dedicated to sharing tools and techniques we use at Joyent to operate Node.js in production."
+    },
+    {
+      "username": "Garret_Halvorson57",
+      "email": "Vallie38@yahoo.com",
+      "age": 24,
+      "gender": "male",
+      "skill": [
+        "php",
+        "python"
+      ],
+      "experience": "year 3",
+      "field": [
+        "manager",
+        "developer"
+      ],
+      "photo": "img/IMG01.jpg",
+      "description": "This resource is dedicated to sharing tools and techniques we use at Joyent to operate Node.js in production."
+    },
+    {
+      "username": "Zoe.Wisozk",
+      "email": "Grady.Witting@gmail.com",
+      "age": 24,
+      "gender": "male",
+      "skill": [
+        "php",
+        "python"
+      ],
+      "experience": "year 3",
+      "field": [
+        "manager",
+        "developer"
+      ],
+      "photo": "img/IMG01.jpg",
+      "description": "This resource is dedicated to sharing tools and techniques we use at Joyent to operate Node.js in production."
+    }
+  ]

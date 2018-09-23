@@ -1,0 +1,43 @@
+[
+    {
+        "name":"username",
+        "type":"text"
+    },
+    {
+        "name":"email",
+        "type":"email"
+    },
+    {
+        "name":"age",
+        "type":"number"
+    },
+    {
+        "name":"gender",
+        "type":"radio",
+        "data":["male", "female"]
+    },
+    {
+        "name":"skill",
+        "type":"checkBox",
+        "data":["javascript", "php", "node", "python", "react", "vue", "html"]
+    },
+    {
+        "name":"experience",
+        "type":"select",
+        "data":["year 1", "year 2", "year 3", "year 4", "year 5","year 6", "year 7", "year 8", "year 9", "year 10","year 11", "year 12", "year 13", "year 14", "year 15"]
+    },
+    {
+        "name":"field",
+        "type":"select",
+        "attr":"multiple",
+        "data":["IT player", "developer","engineer", "manager", "employeer"]
+    },
+    {
+        "name":"photo",
+        "type":"file"
+    },
+    {
+        "name":"description",
+        "type":"textarea"
+    }
+]
